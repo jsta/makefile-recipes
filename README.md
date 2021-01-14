@@ -8,3 +8,8 @@ Example: https://github.com/jsta/gssurgo_data/blob/master/Makefile
 ### Create a file holding a list of subset ids
 
 Example: https://github.com/jsta/nesR/blob/master/477/Makefile
+
+## Self-documenting Makefiles
+
+https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
+
