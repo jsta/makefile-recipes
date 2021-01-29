@@ -9,6 +9,8 @@ Example: https://github.com/jsta/gssurgo_data/blob/master/Makefile
 
 Example: https://github.com/jsta/nesR/blob/master/477/Makefile
 
+----
+
 ## Self-documenting Makefiles
 
 ```makefile
@@ -18,3 +20,8 @@ help:
 
 See: https://marmelab.com/blog/2016/02/29/auto-documented-makefile.html
 
+----
+
+## Cheatsheet
+
+https://jsta.github.io/ProgrammingNotes/make.html
